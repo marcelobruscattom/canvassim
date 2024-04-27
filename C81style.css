@@ -1,0 +1,25 @@
+
+h1
+{
+	color: rgb(38, 38, 38); 
+	font-size: 40px;
+}
+.bodyBackgorund {
+	background-image: url("bg1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas {
+	background-color: white;
+	width: 1000px;
+	height: 550px;
+	border-style: solid;
+
+}
+
+#Cor {
+	
+	font-size: 30px;
+}
